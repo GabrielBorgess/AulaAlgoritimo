@@ -1,1 +1,1 @@
-# AulaAlgoritimo
+# EX da aula de algoritimo
