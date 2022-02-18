@@ -7,19 +7,19 @@ int main(void){
 		
 	if (ddd==61){
 		printf("Brasilia");}
-	if (ddd==71){
+	else if (ddd==71){
 		printf("Salvador");}
-	if (ddd==11){
+	else if (ddd==11){
 		printf("Sao paulo");}
-	if (ddd==21){
+	else if (ddd==21){
 		printf("Rio de janeiro");}
-	if (ddd==32){
+	else if (ddd==32){
 		printf("Juiz de fora");}
-	if (ddd==19){
+	else if (ddd==19){
 		printf("Campinas");}
-	if (ddd==27){
+	else if (ddd==27){
 		printf("Vitoria");}
-	if (ddd==31){
+	else if (ddd==31){
 		printf("Belo Horizonte");}
 		
 	else printf("DDD nao cadastrado");
